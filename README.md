@@ -114,3 +114,43 @@ Margin doesnt have good support in HTML email
 -- Dark Mode styling and CSS Blend Mode
 -- Background Images with VML for Outlook
 -- Button and Images in VML with radius for Outlook
+
+
+
+## STRIPE COPYWRITE
+
+build great payments experiences with stripe, improve performance, expand into new markets, and engage customers with subscriptions and marketplaces.
+
+Simplified Cross border payment with Strip
+
+Power your e-commerce payment with Stripe
+
+
+
+Stripe is Built for growth
+Take your startup farther, faster
+
+Startups build on Stripe to launch faster, adapt as they grow, and automate workflows to do more with less. Build your own API-based integration or use our low- to no-code solutions, which are simple enough for easy implementation and powerful enough to scale as fast and as far as you need.
+
+
+Millions
+BMW owners using ConnectedDrive Store
+350+
+US dealerships
+Products used
+Payments
+Connect
+5+
+Amazon businesses on Stripe including Prime, Audible, and Amazon Pay.
+
+50+
+Payment methods available on Stripe
+
+
+Connect
+130
+Countries in logistics network
+$10+
+
++5.5%
+Uplift from Stripe's Global Payments Infrastructure
