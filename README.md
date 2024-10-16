@@ -154,3 +154,29 @@ $10+
 
 +5.5%
 Uplift from Stripe's Global Payments Infrastructure
+
+
+
+ <tr>
+                    <td style="padding: 20px 40px;">
+                        <div style="text-align: center; margin-bottom: 20px;">
+                            <img src="https://i.ibb.co/7zvZ3J2/summer-mountain-climbing.jpg" alt="Summer Mountain Climbing" style="width: 100%; max-width: 600px; height: auto;">
+                        </div>
+                        <h1 style="font-size: 24px; font-weight: 700; margin: 0 0 20px;">Summer Mountain Climbing</h1>
+                        <p style="margin: 0 0 20px;">Summer is the perfect time to go mountain climbing. The weather is warm, the days are long, and the mountains are calling. Whether you're an experienced climber or a beginner, there's a mountain out there for you. From the towering peaks of the Himalayas to the rugged terrain of the Rockies, there's no shortage of places to explore. So pack your bags, lace up your boots, and get ready for the adventure of a lifetime.</p>
+                        <p style="margin: 0 0 20px;">Here are some of the best mountains to climb this summer:</p>
+                        <ul style="margin: 0 0 20px; padding-left: 20px;">
+                            <li>Mount Everest, Nepal - <strong> $5000 </strong> </li>
+                            <li>Mount Kilimanjaro, Tanzania - $3000</li>
+                            <li>Mount Rainier, Washington - $2000</li>
+                            <li>Mount Elbrus, Russia - $4000</li>
+                            <li>Mount Fuji, Japan - $2500</li>
+                        </ul>
+                        <p style="margin: 0 0 20px;">No matter where you go, be sure to pack plenty of water, food, and warm clothing. And always remember to respect the mountain and the environment. Happy climbing!</p>
+                    </td>
+                </tr>
+
+
+                <div style="text-align: center; margin-bottom: 20px;">
+                    <a href="https://www.example.com" style="display: inline-block; padding: 10px 20px; background-color: #FFA500; color: #ffffff; text-decoration: none; font-size: 16px; font-weight: 700; border-radius: 5px;">Make a Booking</a>
+                </div>

@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 22,
+    "editor.renderWhitespace": "none",
+    "editor.wordWrap": "off",
+    "editor.wordWrapColumn": 80
+}
